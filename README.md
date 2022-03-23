@@ -10,7 +10,9 @@ This is blog website where you can insert, view, delete the blog.
   3.javascript
   
  ## BackEnd:-
- 
-   1.Node.js
    
-   2.Mongodb
+   1.Javascript
+ 
+   2.Node.js
+   
+   3.Mongodb

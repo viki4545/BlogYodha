@@ -1,11 +1,13 @@
 # BlogYodha
 This is blog website where you can insert, view, delete the blog.
 
-##FrontEnd:-
+## FrontEnd:-
+ 
   1.html
   2.css
   3.javascript
   
- ##BackEnd:-
+ ## BackEnd:-
+ 
    1.Node.js
    2.Mongodb

@@ -1,7 +1,7 @@
-# BlogYodha
+# 📝 BlogYodha
 This is blog website where you can insert, view, delete the blog.
 
-## FrontEnd:-
+# 👩‍💻 FrontEnd:-
  
   1.html
   
@@ -9,7 +9,7 @@ This is blog website where you can insert, view, delete the blog.
   
   3.javascript
   
- ## BackEnd:-
+ # 👨‍💻 BackEnd:-
    
    1.Javascript
  
